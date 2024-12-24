@@ -5,3 +5,10 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 kodcloud/kodexplorer
+6053537/portainer-ce
+linuxserver/homeassistant
+emqx/emqx
+eclipse/mosquitto
+linuxserver/jellyfin
+linuxserver/qbittorrent
+linuxserver/transmission
