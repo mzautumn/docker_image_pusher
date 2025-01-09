@@ -6,10 +6,10 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 kodcloud/kodexplorer
 6053537/portainer-ce
-linuxserver/homeassistant
-emqx/emqx
-eclipse/mosquitto
-linuxserver/jellyfin
-linuxserver/qbittorrent
-linuxserver/transmission
-yacreader/yacreaderlibraryserver
+#linuxserver/homeassistant
+#emqx/emqx
+#eclipse/mosquitto
+#linuxserver/jellyfin
+#linuxserver/qbittorrent
+#linuxserver/transmission
+--platform=linux/arm64 yacreader/yacreaderlibraryserver
