@@ -12,3 +12,4 @@ eclipse/mosquitto
 linuxserver/jellyfin
 linuxserver/qbittorrent
 linuxserver/transmission
+yacreader/yacreaderlibraryserver
