@@ -14,3 +14,4 @@ xhofe/alist:latest
 #linuxserver/transmission:latest
 --platform=linux/arm64 yacreader/yacreaderlibraryserver
 v2ray/official:latest
+teddysun/v2ray:latest
