@@ -15,3 +15,4 @@ xhofe/alist:latest
 --platform=linux/arm64 yacreader/yacreaderlibraryserver
 v2ray/official:latest
 teddysun/v2ray:latest
+mzz2017/v2raya:latest
